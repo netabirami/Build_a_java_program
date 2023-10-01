@@ -1,0 +1,2 @@
+javac FirstProgram.java
+java FirstProgram
